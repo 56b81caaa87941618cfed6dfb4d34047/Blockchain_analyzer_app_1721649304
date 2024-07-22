@@ -150,5 +150,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "page_details_cards_component_1721649366.js": {
+        "id": "page_details_cards_component-c3bd1597-918d-4622-938d-e3c83921d1dd",
+        "name": "page_details_cards_component",
+        "type": "markdown",
+        "metadata": {},
+        "w": 7,
+        "h": 7,
+        "x": "50",
+        "y": "50",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 20,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
