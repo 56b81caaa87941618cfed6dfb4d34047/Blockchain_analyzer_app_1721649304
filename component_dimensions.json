@@ -131,5 +131,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "purple_background_cta_component_1721649351.js": {
+        "id": "purple_background_cta_component-2f20a61f-54d4-5444-7d20-d31303e065fb",
+        "name": "purple_background_cta_component",
+        "type": "markdown",
+        "metadata": {},
+        "w": 12,
+        "h": 8,
+        "x": "100",
+        "y": "40",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 12,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
