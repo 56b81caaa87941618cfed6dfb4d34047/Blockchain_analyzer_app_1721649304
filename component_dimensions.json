@@ -112,5 +112,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "purple_feature_grid_component_1721649343.js": {
+        "id": "purple_feature_grid_component-28156913-d42f-a8cb-84b3-a020d043bf14",
+        "name": "purple_feature_grid_component",
+        "type": "markdown",
+        "metadata": {},
+        "w": 12,
+        "h": 8,
+        "x": "100",
+        "y": "50",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 12,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
