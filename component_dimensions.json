@@ -188,5 +188,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "quoty_faq_accordion_component_1721649388.js": {
+        "id": "quoty_faq_accordion_component-9945ffc2-460b-e681-c878-c5b313366b83",
+        "name": "quoty_faq_accordion_component",
+        "type": "markdown",
+        "metadata": {},
+        "w": 7,
+        "h": 7,
+        "x": "50",
+        "y": "50",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 20,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
