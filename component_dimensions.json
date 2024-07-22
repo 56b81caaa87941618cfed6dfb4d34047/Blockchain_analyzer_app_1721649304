@@ -245,5 +245,24 @@
         "static": false,
         "isDraggable": true,
         "isResizable": true
+    },
+    "simple_cta_component_1721649415.js": {
+        "id": "simple_cta_component-57eb622a-1c04-cf8d-96c4-a8f0d7fe0af7",
+        "name": "simple_cta_component",
+        "type": "markdown",
+        "metadata": {},
+        "w": 7,
+        "h": 7,
+        "x": "50",
+        "y": "50",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "maxH": 20,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
